@@ -1,155 +1,127 @@
 <div align="center">
 
-# Mohamed NAJID
-### AI Engineer · Deep Learning · LLMs · MLOps · Signal Processing
+<!-- Animated tech icons banner -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,aws,git,cpp,fastapi,linux&perline=10" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Najid-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-najid)
-[![Email](https://img.shields.io/badge/Email-Mohamednajid070@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:Mohamednajid070@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Besan%C3%A7on%2C_France-4CAF50?style=for-the-badge&logo=googlemaps)]()
+<br/>
+
+# Hi, I'm Mohamed NAJID 👋
+
+### I am an <ins>AI Engineer & Deep Learning Specialist</ins>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+LLMs+%7C+MLOps;Time-Series+Forecasting+%7C+Signal+Processing;Agentic+AI+%7C+RAG+%7C+Computer+Vision;Physics-Informed+Neural+Networks+(PINN))](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me
+My name is **Mohamed NAJID**, a 23-year-old AI Engineer currently completing my **PFE internship at Alstom** (Ornans, France), where I build from scratch a full AI predictive maintenance chain for railway traction motors — combining Deep Learning, Physics-Informed Neural Networks (PINNs), C++, and real-time MLOps pipelines.
 
-I'm a **23-year-old AI Engineer** currently completing a **PFE internship at Alstom** (Ornans, France), where I build predictive maintenance systems for railway traction motors from scratch using Deep Learning, PINNs, and real-time MLOps pipelines.
+I hold a **Master 2 in Artificial Intelligence** from Université Claude Bernard Lyon 1, where I specialized in Machine Learning, Deep Learning, LLMs, Agentic AI, and IoT. I graduated as **Major de Promo** in my Master 1 in Signal & Image Processing.
 
-- 🎓 **Master 2 Intelligence Artificielle** — Université Claude Bernard Lyon 1 *(Major de promo M1)*
-- 🏭 **Current:** AI Engineer Intern @ Alstom — Predictive Maintenance (LSTM, PINN, PHM)
-- 🔬 **Research:** Co-author of a scientific paper on LLM-based financial sentiment (SentiTrade-HMA)
-- 🏆 **Certified:** Micro1 AI Engineer · IBM RAG · AWS ML · Oracle OCI AI 2025
-- 🌍 **Languages:** French (C1) · English (B2) · Arabic (native)
+I am co-author of a scientific publication on **LLM-based hierarchical financial sentiment aggregation** for algorithmic trading (SentiTrade-HMA), combining QLoRA fine-tuned Llama-2-7B with a Temporal Fusion Transformer.
+
+I am **actively seeking an AI Engineer position** where I can contribute to building impactful real-world AI systems. I am particularly interested in roles involving:
+
+- 🧠 Deep Learning & Time-Series Forecasting
+- 🤖 LLMs, RAG, Agentic AI & Multi-Agent Orchestration (LangChain / LangGraph)
+- 🔬 Physics-Informed Neural Networks & Scientific ML
+- ⚙️ MLOps, Model Deployment & Production-grade AI Pipelines
+- 👁️ Computer Vision & Signal Processing
+
+🔗 [LinkedIn](https://linkedin.com/in/mohamed-najid) &nbsp;|&nbsp; 📧 [Mohamednajid070@gmail.com](mailto:Mohamednajid070@gmail.com) &nbsp;|&nbsp; 📍 Besançon, France
+
+Thanks for stopping by! 😊  
+Feel free to connect, collaborate, or say hi anytime.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**AI / ML / DL**
+**AI / ML / DL Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat-square)
-
-**Specializations**
-
-```
-Deep Learning (LSTM, Transformer, PINN, U-Net, DQN)  ·  LLMs & Fine-tuning (QLoRA, LoRA)
-Agentic AI  ·  RAG (Hybrid Search)  ·  Computer Vision (YOLO, OpenCV)
-Time-Series Forecasting  ·  Signal Processing  ·  MLOps (MLflow, Docker, CI/CD)
-```
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Cloud & MLOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 1. Smart-LSTM — Predictive Maintenance for Railway Motors *(Alstom)*
+### 🔬 1. Smart-LSTM — Predictive Maintenance @ Alstom
 > `PyTorch` `LSTM` `PINN` `C++` `MLOps` `Signal Processing` `PHM`
 
-End-to-end AI chain built **from scratch** for predictive maintenance of railway traction motors at Alstom's center of excellence in Ornans. The system combines physics-informed neural networks (PINNs) with a custom Smart-LSTM architecture featuring temporal attention and residual connections, deployed in a real-time inference pipeline with C++ integration.
+End-to-end AI predictive maintenance chain built **from scratch** for railway traction motors. Custom **Smart-LSTM** architecture with temporal attention and residual connections, physics-informed constraints, and a real-time C++ inference pipeline.
 
-- ✅ Custom hybrid architecture: LSTM + Temporal Attention + Residual connections
-- ✅ Physics-Informed constraints for thermal modeling
-- ✅ Real-time inference pipeline with production-grade MLOps
-- ✅ Full compliance with RGPD and railway safety standards (PHM)
+- ✅ Hybrid architecture: LSTM + Temporal Attention + Residual connections
+- ✅ Physics-Informed Neural Network (PINN) thermal modeling
+- ✅ Real-time inference with C++ integration & production MLOps
 
 ---
 
 ### 📈 2. SentiTrade-HMA — LLM-powered Algorithmic Trading *(Co-authored Paper)*
-> `LLM` `QLoRA` `Llama-2-7B` `TFT` `NLP` `Time-Series` `Fine-tuning`
+> `Llama-2-7B` `QLoRA` `TFT` `NLP` `Fine-tuning` `LangChain`
 
-Hierarchical Multi-source Aggregation of LLM-derived Financial Sentiments for Enhanced Algorithmic Trading. Fine-tuned a **Llama-2-7B** model with **QLoRA** to extract financial sentiment signals from heterogeneous sources (news, filings, social), aggregated hierarchically and fed into a **Temporal Fusion Transformer (TFT)** for trading signal generation.
+Hierarchical Multi-Source LLM sentiment aggregation for enhanced algorithmic trading. Fine-tuned **Llama-2-7B with QLoRA** on financial corpora, hierarchically aggregated across sources, fed into a **Temporal Fusion Transformer** for multi-horizon price forecasting.
 
 🔗 [View Repository](https://github.com/MeDusk/sentitrade-HMA-V2)
 
-- ✅ Co-author of a scientific publication
-- ✅ QLoRA fine-tuning on domain-specific financial corpus
-- ✅ Hierarchical Multi-Source sentiment aggregation pipeline
-- ✅ TFT for multi-horizon forecasting of price movements
-
 ---
 
-### 🎵 3. Musical Clustering — Spotify Audio Features (Data Mining)
-> `scikit-learn` `K-means` `DBSCAN` `GMM` `PCA` `t-SNE` `UMAP`
+### 🎵 3. Musical Clustering — Spotify Audio Features
+> `K-means` `DBSCAN` `GMM` `PCA` `t-SNE` `UMAP` `scikit-learn`
 
-Unsupervised clustering of **32,828 Spotify tracks** using 10 acoustic audio features. Comparative evaluation of 4 algorithms (K-means, DBSCAN, GMM, Hierarchical) on 7 metrics. Key finding: commercial music genres are socio-cultural constructs, not acoustic clusters — genres explain only 1–9% of total acoustic variance (ANOVA).
+Unsupervised clustering of **32,828 Spotify tracks** across 4 algorithms and 7 evaluation metrics. Key insight: commercial genres explain only 1–9% of acoustic variance — they are socio-cultural constructs, not acoustic clusters.
 
 🔗 [View Repository](https://github.com/MeDusk/Data-MINING)
 
-- ✅ 4 algorithms compared with 7 evaluation metrics (Silhouette, NMI, ARI, BIC…)
-- ✅ Advanced visualization: PCA, t-SNE (perplexity=30), UMAP
-- ✅ 6 interpretable semantic clusters (Rap, Live, Acoustic Ballads, Instrumental Electronic…)
-- ✅ Full academic report (Master 2 IA)
-
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Stats
 
-| Period | Role | Company | Key Tech |
-|---|---|---|---|
-| 02/2026 – 08/2026 | **AI Engineer Intern (PFE)** | 🏭 Alstom, Ornans | LSTM, PINN, C++, MLOps, PHM |
-| 04/2025 – 07/2025 | Data Scientist / AI Dev Intern | Recruit.IA, Casablanca | RAG, Agents, NLP, TF, sklearn |
-| 02/2024 – 05/2024 | Junior AI Analyst | Orange Business, Casablanca | LSTM Autoencoder, PyTorch, Scapy |
-| 04/2023 – 06/2023 | Software Dev Intern | ANP, Casablanca | REST API, Docker, Git |
+<div align="center">
 
----
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeDusk&show_icons=true&theme=tokyonight&hide_border=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeDusk&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🎓 Education
-
-| Degree | School | Year | Notes |
-|---|---|---|---|
-| **Master 2 IA** | Université Claude Bernard Lyon 1 | 2026 | ML, DL, LLM, Agentic AI, IoT |
-| **Master 1 Signal & Images** | Université du Littoral Côte d'Opale | 2025 | **Major de Promo** |
-| **Licence Génie Logiciels** | Université Hassan 2, Maroc | 2024 | |
-| **DEUST Math-Info-Physique** | Université Hassan 2, Maroc | 2023 | |
+</div>
 
 ---
 
 ## 📜 Certifications
 
-| Badge | Issuer | Date |
-|---|---|---|
-| 🏅 Certified AI Engineer | Micro1 | May 2026 |
-| 🏅 Build RAG Applications | IBM | Mar 2026 |
-| 🏅 Machine Learning with Python V2 | IBM | May 2025 |
-| 🏅 ML Foundations | AWS Educate | Apr 2025 |
-| 🏅 OCI AI 2025 Foundations Associate | Oracle | Apr 2025 |
-| 🏅 NLP Mastery in Python | Udemy | Dec 2024 |
-
----
-
-## 📊 Other Notable Projects
-
-- 🎮 **Smart Connect 4** — DQN agent with Dueling architecture on a physical Arduino-connected game board
-- 🎥 **Real-Time Gameplay Event Recognition** — C++, OpenCV, PyTorch/ONNX pipeline
-- 🔍 **Network Anomaly Detection** — Real-time LSTM Autoencoder for security threat detection (Orange Business)
-- 🤖 **Hybrid RAG Pipeline** — Freelance project with hybrid search (dense + sparse)
-- 👁️ **Real-time Semantic Segmentation** — U-Net architecture
-- 📦 **Object Tracking** — YOLO-based multi-object tracking in video
+🏅 Micro1 — Certified AI Engineer *(May 2026)*  
+🏅 IBM — Build RAG Applications *(Mar 2026)*  
+🏅 IBM — Machine Learning with Python V2 *(May 2025)*  
+🏅 AWS Educate — ML Foundations *(Apr 2025)*  
+🏅 Oracle — OCI AI 2025 Foundations Associate *(Apr 2025)*  
+🏅 Udemy — NLP Mastery in Python *(Dec 2024)*
 
 ---
 
 <div align="center">
 
-*"The real structure of musical data is probably hierarchical, multi-scale, and multi-modal — just like intelligence itself."*
+📩 **Open to opportunities** — AI Engineer · LLMs · MLOps · Research
 
-📩 **Open to opportunities** — AI Engineer · Research · MLOps · LLMs
-
-[![Email](https://img.shields.io/badge/Contact_Me-Mohamednajid070@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:Mohamednajid070@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-najid)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:Mohamednajid070@gmail.com)
 
 </div>
