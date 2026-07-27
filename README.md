@@ -29,7 +29,7 @@ I am **actively seeking an AI Engineer position** where I can contribute to buil
 - ⚙️ MLOps, Model Deployment & Production-grade AI Pipelines
 - 👁️ Computer Vision & Signal Processing
 
-🔗 [LinkedIn](https://linkedin.com/in/mohamed-najid) &nbsp;|&nbsp; 📧 [Mohamednajid070@gmail.com](mailto:Mohamednajid070@gmail.com) &nbsp;|&nbsp; 📍 Besançon, France
+🔗 [LinkedIn](https://linkedin.com/in/mohamed-najid) &nbsp;|&nbsp; 📧 [Mohamednajid070@gmail.com](mailto:Mohamednajid070@gmail.com) &nbsp;|&nbsp; 📍 France
 
 Thanks for stopping by! 😊  
 Feel free to connect, collaborate, or say hi anytime.
@@ -70,9 +70,9 @@ Feel free to connect, collaborate, or say hi anytime.
 
 End-to-end AI predictive maintenance chain built **from scratch** for railway traction motors. Custom **Smart-LSTM** architecture with temporal attention and residual connections, physics-informed constraints, and a real-time C++ inference pipeline.
 
-- ✅ Hybrid architecture: LSTM + Temporal Attention + Residual connections
-- ✅ Physics-Informed Neural Network (PINN) thermal modeling
-- ✅ Real-time inference with C++ integration & production MLOps
+-  Hybrid architecture: LSTM + Temporal Attention + Residual connections
+-  Physics-Informed Neural Network (PINN) thermal modeling
+-  Real-time inference with C++ integration & production MLOps
 
 ---
 
@@ -94,7 +94,7 @@ Unsupervised clustering of **32,828 Spotify tracks** across 4 algorithms and 7 e
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Unsupervised clustering of **32,828 Spotify tracks** across 4 algorithms and 7 e
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 🏅 Micro1 — Certified AI Engineer *(May 2026)*  
 🏅 IBM — Build RAG Applications *(Mar 2026)*  
