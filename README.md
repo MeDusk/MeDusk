@@ -115,6 +115,21 @@ Development of an intelligent agent capable of playing **Connect 4 at a superhum
 
 ---
 
+### 🧠 5. HybridRAG-Pro — Production-ready Hybrid RAG Pipeline
+> `LangChain` `LangGraph` `FAISS` `BM25` `FastAPI` `Streamlit` `Docker` `RAGAS`
+
+Full production RAG pipeline combining **dense + sparse retrieval**, cross-encoder reranking, query expansion (HyDE / MultiQuery), contextual compression, and a **LangGraph agentic router**. Evaluated with RAGAS (Faithfulness **0.89**). Deployed via Docker Compose with FastAPI SSE streaming and a Streamlit chat UI.
+
+🔗 [View Repository](https://github.com/MeDusk/hybrid-rag-pro)
+
+- ✅ Hybrid Fusion (FAISS + BM25 + RRF k=60) — Precision@5: **0.89** after reranking
+- ✅ LangGraph conditional router: SimpleRAG / ReAct Agent / Rejection
+- ✅ FastAPI with SSE token streaming + `/ingest` incremental indexing
+- ✅ RAGAS evaluation: Faithfulness 0.89 · Relevancy 0.86 · Precision 0.83 · Recall 0.81
+- ✅ Full Docker stack: ChromaDB + FastAPI + Streamlit in 3 commands
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
