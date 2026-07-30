@@ -70,9 +70,9 @@ Feel free to connect, collaborate, or say hi anytime.
 
 End-to-end AI predictive maintenance chain built **from scratch** for railway traction motors. Custom **Smart-LSTM** architecture with temporal attention and residual connections, physics-informed constraints, and a real-time C++ inference pipeline.
 
--  Hybrid architecture: LSTM + Temporal Attention + Residual connections
--  Physics-Informed Neural Network (PINN) thermal modeling
--  Real-time inference with C++ integration & production MLOps
+- ✅ Hybrid architecture: LSTM + Temporal Attention + Residual connections
+- ✅ Physics-Informed Neural Network (PINN) thermal modeling
+- ✅ Real-time inference with C++ integration & production MLOps
 
 ---
 
@@ -83,6 +83,10 @@ Hierarchical Multi-Source LLM sentiment aggregation for enhanced algorithmic tra
 
 🔗 [View Repository](https://github.com/MeDusk/sentitrade-HMA-V2)
 
+- ✅ Co-author of a scientific publication
+- ✅ QLoRA fine-tuning on domain-specific financial corpus
+- ✅ TFT for multi-horizon forecasting of price movements
+
 ---
 
 ### 🎵 3. Musical Clustering — Spotify Audio Features
@@ -92,9 +96,27 @@ Unsupervised clustering of **32,828 Spotify tracks** across 4 algorithms and 7 e
 
 🔗 [View Repository](https://github.com/MeDusk/Data-MINING)
 
+- ✅ 4 algorithms compared with 7 evaluation metrics (Silhouette, NMI, ARI, BIC…)
+- ✅ Advanced visualization: PCA, t-SNE, UMAP
+- ✅ 6 interpretable semantic clusters with full academic report
+
 ---
 
-## GitHub Stats
+### 🎮 4. Smart Connect 4 — Deep Reinforcement Learning on Physical Hardware
+> `PyTorch` `DQN` `Dueling Architecture` `Arduino` `Python` `Reinforcement Learning`
+
+Development of an intelligent agent capable of playing **Connect 4 at a superhuman level**, deployed on a **physical Arduino-connected game board**. The agent uses a **Dueling DQN architecture** with experience replay and target network, trained via self-play and tested against human opponents in real-time.
+
+🔗 [View Repository](https://github.com/MeDusk/Smart-Connect4-IA)
+
+- ✅ Dueling DQN architecture (Value + Advantage streams)
+- ✅ Experience replay buffer & epsilon-greedy exploration strategy
+- ✅ Real-time decision making interfaced with physical Arduino board
+- ✅ Self-play training curriculum for progressive difficulty
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -106,7 +128,7 @@ Unsupervised clustering of **32,828 Spotify tracks** across 4 algorithms and 7 e
 
 ---
 
-##  Certifications
+## 📜 Certifications
 
 🏅 Micro1 — Certified AI Engineer *(May 2026)*  
 🏅 IBM — Build RAG Applications *(Mar 2026)*  
