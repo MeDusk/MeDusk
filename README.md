@@ -81,8 +81,7 @@ End-to-end AI predictive maintenance chain built **from scratch** for railway tr
 
 Hierarchical Multi-Source LLM sentiment aggregation for enhanced algorithmic trading. Fine-tuned **Llama-2-7B with QLoRA** on financial corpora, hierarchically aggregated across sources, fed into a **Temporal Fusion Transformer** for multi-horizon price forecasting.
 
-🔗 [View Repository](https://github.com/MeDusk/sentitrade-HMA-V2)
-
+🔗 [View Repository](https://github.com/MeDusk/sentitrade-HMA)
 - ✅ Co-author of a scientific publication
 - ✅ QLoRA fine-tuning on domain-specific financial corpus
 - ✅ TFT for multi-horizon forecasting of price movements
