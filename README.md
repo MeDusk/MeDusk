@@ -130,18 +130,6 @@ Full production RAG pipeline combining **dense + sparse retrieval**, cross-encod
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeDusk&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeDusk&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Certifications
 
 🏅 Micro1 — Certified AI Engineer *(May 2026)*  
