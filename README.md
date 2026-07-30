@@ -23,11 +23,11 @@ I am co-author of a scientific publication on **LLM-based hierarchical financial
 
 I am **actively seeking an AI Engineer position** where I can contribute to building impactful real-world AI systems. I am particularly interested in roles involving:
 
-- 🧠 Deep Learning & Time-Series Forecasting
-- 🤖 LLMs, RAG, Agentic AI & Multi-Agent Orchestration (LangChain / LangGraph)
-- 🔬 Physics-Informed Neural Networks & Scientific ML
-- ⚙️ MLOps, Model Deployment & Production-grade AI Pipelines
-- 👁️ Computer Vision & Signal Processing
+-  Deep Learning & Time-Series Forecasting
+-  LLMs, RAG, Agentic AI & Multi-Agent Orchestration (LangChain / LangGraph)
+-  Physics-Informed Neural Networks & Scientific ML
+-  MLOps, Model Deployment & Production-grade AI Pipelines
+-  Computer Vision & Signal Processing
 
 🔗 [LinkedIn](https://linkedin.com/in/mohamed-najid) &nbsp;|&nbsp; 📧 [Mohamednajid070@gmail.com](mailto:Mohamednajid070@gmail.com) &nbsp;|&nbsp; 📍 France
 
@@ -63,7 +63,7 @@ Feel free to connect, collaborate, or say hi anytime.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔬 1. Smart-LSTM — Predictive Maintenance @ Alstom
 > `PyTorch` `LSTM` `PINN` `C++` `MLOps` `Signal Processing` `PHM`
@@ -142,7 +142,7 @@ Full production RAG pipeline combining **dense + sparse retrieval**, cross-encod
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 🏅 Micro1 — Certified AI Engineer *(May 2026)*  
 🏅 IBM — Build RAG Applications *(Mar 2026)*  
