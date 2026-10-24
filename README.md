@@ -118,17 +118,6 @@ Dueling DQN agent with experience replay and target network, trained by self-pla
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MeDusk&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeDusk&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Certifications
 
 Micro1 Certified AI Engineer (May 2026) · IBM Build RAG Applications (Mar 2026) · IBM Machine Learning with Python V2 (May 2025) · AWS Educate ML Foundations (Apr 2025) · Oracle OCI AI Foundations Associate (Apr 2025)
